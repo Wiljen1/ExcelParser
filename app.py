@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from excel_parser.parser_v2 import parse_file
+from excel_parser.parser_v3 import parse_file
 
 st.set_page_config(page_title="Excel Parser", layout="wide")
 
